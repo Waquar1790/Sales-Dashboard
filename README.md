@@ -41,4 +41,3 @@ SCREENSHOT
 
 <img width="584" height="322" alt="image" src="https://github.com/user-attachments/assets/46fd2257-0b13-4e01-afe2-852594815030" />
 
-https://github.com/Waquar1790/Sales-Dashboard/blob/main/sales%20dashboard%20snip.png
